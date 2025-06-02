@@ -7,8 +7,8 @@ This project aims to bridge the language gap in governmental communication by de
 
 ## Dataset
 The dataset was provided by Technology Development for Indian Languages (TDIL) Programme by Ministry of Electronics & Information Technology.
-The dataset contains 53,997 English-Konkani sentences. 
-Manually verified and cleaned
+<br>The dataset contains 53,997 English-Konkani sentences. 
+<br>Manually verified and cleaned
 
 ## Evaluation
 - BLEU Score: 0.45
